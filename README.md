@@ -1,1 +1,1 @@
-# NHLWebScrape
+# Florida Panthers Twitter Bot
